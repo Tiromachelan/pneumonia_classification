@@ -1,0 +1,1 @@
+Uncropped data can be found at https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia.  It is not included here due to the large file size, so some of the cells will not run unless that data is added to the folder.
