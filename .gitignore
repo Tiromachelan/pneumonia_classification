@@ -4,3 +4,4 @@ Project 1 proposal.pdf
 .DS_Store
 models/
 *.pth
+*.pt
